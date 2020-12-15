@@ -64,7 +64,7 @@ To be able to use Git and GitHub from the command line we need to configure the 
 <!-- #region -->
 ### 1. Set user _**name**_
 
-Replace ` <my github user name>` with your actual GitHub email.
+Replace ` <my github user name>` with your actual GitHub user name.
 
 
 `git config --global user.name <my github user name>`
